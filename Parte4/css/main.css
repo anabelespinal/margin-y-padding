@@ -1,1 +1,11 @@
 /* Agrega aqui tu CSS */
+div {
+	border: 2px solid #580BB0;
+	width: 300px;
+	height: 300px;
+	padding: 15px 30px 15px 15px;
+}
+.margin {
+	margin-left: -15px;
+	margin-right: -33px;
+}
